@@ -1,4 +1,4 @@
-module github.com/tickets-dao/foundation/v3/test/chaincode/industrial
+module github.com/tickets-dao/integration/chaincode/industrial
 
 go 1.18
 

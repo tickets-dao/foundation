@@ -6,7 +6,7 @@ import (
 
 	"github.com/tickets-dao/foundation/v3/core"
 	"github.com/tickets-dao/foundation/v3/core/types"
-	industrialtoken "github.com/tickets-dao/foundation/v3/test/chaincode/industrial/industrial_token"
+	industrialtoken "github.com/tickets-dao/integration/chaincode/industrial/industrial_token"
 
 	"github.com/hyperledger/fabric-chaincode-go/shim"
 )

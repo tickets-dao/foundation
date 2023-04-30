@@ -1,4 +1,4 @@
-module github.com/tickets-dao/foundation/v3/test/chaincode/cc
+module github.com/tickets-dao/integration/chaincode/cc
 
 go 1.18
 

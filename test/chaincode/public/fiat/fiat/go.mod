@@ -1,4 +1,4 @@
-module github.com/tickets-dao/foundation/v3/test/chaincode/fiat
+module github.com/tickets-dao/integration/chaincode/fiat
 
 go 1.18
 

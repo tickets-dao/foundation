@@ -10,7 +10,7 @@ import (
 	"github.com/ozontech/allure-go/pkg/framework/provider"
 	"github.com/ozontech/allure-go/pkg/framework/runner"
 	"github.com/stretchr/testify/assert"
-	"github.com/tickets-dao/foundation/v3/test/utils"
+	"github.com/tickets-dao/integration/utils"
 )
 
 const FiatName = "FIAT"

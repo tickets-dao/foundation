@@ -1,4 +1,4 @@
-module github.com/tickets-dao/foundation/v3/test
+module github.com/tickets-dao/integration
 
 go 1.18
 
