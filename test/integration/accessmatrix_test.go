@@ -10,8 +10,8 @@ import (
 	"github.com/ozontech/allure-go/pkg/framework/provider"
 	"github.com/ozontech/allure-go/pkg/framework/runner"
 	"github.com/stretchr/testify/assert"
-	pb "github.com/tickets-dao/foundation/test/proto"
-	"github.com/tickets-dao/foundation/test/utils"
+	pb "github.com/tickets-dao/foundation/v3/test/proto"
+	"github.com/tickets-dao/foundation/v3/test/utils"
 )
 
 const acl = "acl"

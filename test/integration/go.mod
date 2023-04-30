@@ -1,4 +1,4 @@
-module github.com/tickets-dao/foundation/test
+module github.com/tickets-dao/foundation/v3/test
 
 go 1.18
 

@@ -10,7 +10,7 @@ import (
 	"github.com/ozontech/allure-go/pkg/allure"
 	"github.com/ozontech/allure-go/pkg/framework/provider"
 	"github.com/ozontech/allure-go/pkg/framework/runner"
-	"github.com/tickets-dao/foundation/test/utils"
+	"github.com/tickets-dao/foundation/v3/test/utils"
 )
 
 func TestAclAddUser(t *testing.T) {
